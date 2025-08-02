@@ -118,7 +118,7 @@ ___
 ### Using IntelliJ IDEA
 
 1. Open the project.
-2. Locate the `CardemoApplication` main class.
+2. Locate the `CarApplication` main class.
 3. Click the green play️ button to run the application or use the terminal:
     ```bash
     ./mvnw spring-boot:run
